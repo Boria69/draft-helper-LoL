@@ -1,0 +1,20 @@
+# Environments
+
+venv/
+__pycache__/
+.env
+
+# Logs
+
+*.log
+
+# Data and Models
+
+dataset.db
+ml_dataset.csv
+*.pkl
+models/
+
+# Frontend builds
+
+node_modules/
