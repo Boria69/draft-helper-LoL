@@ -9,8 +9,6 @@ Ever wondered if your solo queue draft is doomed from the start? I built an AI t
 
 This is a full-stack machine learning app that acts as a real-time "AI Coach." It analyzes League of Legends team compositions and calculates your exact probability of winning before the game even starts.
 
-*Note: Replace this line with a screenshot of your beautiful frontend dashboard!*
-
 ## ✨ What it does
 
 * **Data Harvesting:** An automated Python script that safely harvests thousands of high-ELO Ranked matches via the Riot Games API.
